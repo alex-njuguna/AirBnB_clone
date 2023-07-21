@@ -1,1 +1,1 @@
-# AirBnB_clone
+AirBnB clone web static part
